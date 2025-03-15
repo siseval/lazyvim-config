@@ -14,6 +14,7 @@ return {
                 "--function-arg-placeholders",
                 "--fallback-style=llvm",
                 "--header-insertion=never",
+                "--offset-encoding=utf-16",
                 },
             },
         }
