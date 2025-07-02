@@ -1,4 +1,4 @@
-vim.keymap.set('n', '<leader>h', '<cmd>lua Snacks.dashboard()<return>', { desc = 'Dashboard' })
+vim.keymap.set('n', '<leader>H', '<cmd>lua Snacks.dashboard()<return>', { desc = 'Dashboard' })
 
 return {
     "folke/snacks.nvim",
